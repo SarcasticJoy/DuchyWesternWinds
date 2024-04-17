@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #F5F5F5;
+    background-color: #FFFFFF;
     color: #333333;
     margin: 0;
     padding: 0;
@@ -38,11 +38,15 @@ footer {
   header a:hover {
     text-decoration: underline;
   }
-  
+    
+  i {
+    margin-right: 14px;
+  }
+
   li {
     margin-bottom: 20px;
   }
-  
+
   ul {
     list-style: none;
   }
